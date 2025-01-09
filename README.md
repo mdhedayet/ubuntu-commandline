@@ -165,6 +165,7 @@ tar xvf phpMyAdmin-latest-all-languages.tar.gz
 
 ```bash
 sudo mkdir /usr/share/phpmyadmin/
+tar -xvf  phpMyAdmin-latest-all-languages.tar.gz
 sudo mv phpMyAdmin-*/* /usr/share/phpmyadmin
 
 ```
